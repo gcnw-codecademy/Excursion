@@ -1,32 +1,32 @@
 body {
-  background-color='Black';
+  background-color=Black;
   text-align: center;
 }
 
 .copyrightText {
-  font-color: 'Gray';
+  font-color: Gray;
   text-align: right;
 }
 
 .downloadLink {
-  font-color: 'Aquamarine';
+  font-color: Aquamarine;
   font-size: 16px;
 }
 
 .mainTitle {
-  font-family: 'Verdana';
+  font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
-  font-color: 'White';
+  font-color: White;
 }
 
 .standardText {
-  font-color: 'Gray';
+  font-color: Gray;
   font-size: 21px;
-  font-family: 'Verdana';
+  font-family: Verdana;
 
 h2 {
-  font-family: 'Verdana';
+  font-family: Verdana;
   font-weight: 300;
   font-size: 42px;
 }
